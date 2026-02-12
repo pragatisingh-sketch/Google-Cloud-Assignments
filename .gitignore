@@ -1,0 +1,19 @@
+# python
+venv/
+**/venv/
+__pycache__/
+*.pyc
+
+# logs
+*.log
+
+# vscode
+.vscode/
+
+# node
+node_modules/
+
+# secrets
+.env
+*.json
+gcs-key.json
