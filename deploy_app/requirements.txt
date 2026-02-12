@@ -1,0 +1,6 @@
+Flask
+gunicorn
+psutil
+
+#gcloud builds submit --tag gcr.io/divine-quest-459017-j2/cloud-task
+#gcloud run deploy Pragati_Singh   --source .   --region us-central1   --platform managed   --allow-unauthenticated

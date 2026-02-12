@@ -1,0 +1,16 @@
+Flask==3.0.3
+gunicorn==22.0.0
+
+
+#divine-quest-459017-j2
+#gcloud builds submit --tag gcr.io/divine-quest-459017-j2/cloudrun-health-app
+# gcloud run deploy pragati-singh \
+# --image gcr.io/divine-quest-459017-j2/cloudrun-health-app \
+# --platform managed \
+# --region us-central1 \
+# --allow-unauthenticated \
+# --port 8080
+
+
+#https://cloudrun-health-app-454775906889.us-central1.run.app
+#https://pragati-singh-454775906889.us-central1.run.app
