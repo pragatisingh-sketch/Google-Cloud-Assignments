@@ -1,4 +1,4 @@
-# 🚀 Flask App Deployment on Google Cloud Run
+# Flask App Deployment on Google Cloud Run
 
 This project demonstrates deploying a simple **Flask web application** using **Docker** on **Google Cloud Run**.
 
@@ -10,7 +10,7 @@ It covers:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 deploy_app/
 │── main.py
@@ -22,7 +22,7 @@ deploy_app/
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - Python  
 - Flask  
 - Gunicorn  
@@ -32,7 +32,7 @@ deploy_app/
 
 ---
 
-## ⚙️ Run Locally
+## Run Locally
 
 ### 1. Clone repository
 ```bash
@@ -63,7 +63,7 @@ http://localhost:5000
 
 ---
 
-## 🐳 Docker Build & Run
+## Docker Build & Run
 
 Build image:
 ```bash
@@ -82,7 +82,7 @@ http://localhost:8080
 
 ---
 
-## ☁️ Deploy to Google Cloud Run
+## Deploy to Google Cloud Run
 
 ### Login
 ```bash
@@ -110,7 +110,7 @@ gcloud run deploy hello-service \
 
 ---
 
-## 🌐 Live Service URL
+## Live Service URL
 Paste your Cloud Run URL here:
 
 ```
@@ -119,7 +119,7 @@ https://YOUR-CLOUD-RUN-URL
 
 ---
 
-## 👩‍💻 Author
+## Author
 **Pragati Singh**  
 Cloud & DevOps Learner  
 
@@ -128,7 +128,7 @@ https://github.com/pragatisingh-sketch
 
 ---
 
-## ⭐ Learning Project
+## Learning Project
 This project was created to practice:
 - Docker
 - Google Cloud Run
